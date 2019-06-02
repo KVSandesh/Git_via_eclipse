@@ -5,6 +5,18 @@
   <version>0.0.1-SNAPSHOT</version>
   
   
+  
+  <suite name="Suite">
+  <test  name="Test">
+    <classes>
+      <class name="demo_TestCases.Test_0001"/>
+      <class name="demo_TestCases.Test_0002"/>
+      <class name="demo_TestCases.Test_003"/>
+    </classes>
+    </test>
+</suite> <!-- Suite -->
+
+
   <dependencies>
   
   <dependency>
